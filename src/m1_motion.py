@@ -2,8 +2,8 @@
 An opportunity to explore how to make an EV3 Robot move.
 
 Authors: Dave Fisher, David Mutchler, Vibha Alangar,
-their colleagues, and PUT_YOUR_NAME_HERE.
-"""  # TODO: 1. PUT YOUR NAME IN THE ABOVE LINE.
+their colleagues, and James Kelley.
+"""  # DONE: 1. PUT YOUR NAME IN THE ABOVE LINE.
 
 # -----------------------------------------------------------------------------
 # TODO: 2.
@@ -14,6 +14,7 @@ their colleagues, and PUT_YOUR_NAME_HERE.
 
 import simple_rosebotics as rb
 import time
+
 
 def main():
     """ Calls the other functions to test/demo them. """
